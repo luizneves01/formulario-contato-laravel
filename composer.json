@@ -21,7 +21,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "LuizNeves01\\FormularioContato\\": "luizneves01/formulariocontatolaravel/src/"
+            "LuizNeves01\\FormularioContato\\": "luizneves01/formulario-contato/src/"
         }
     }
 }
