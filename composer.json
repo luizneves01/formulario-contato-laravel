@@ -10,6 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
+    "extra": {
+        "class": "Composer\\TemplateInstallerPlugin"
+    },
     "require": {},
     "autoload": {
         "psr-4": {
