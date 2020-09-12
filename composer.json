@@ -1,7 +1,7 @@
 {
     "name": "luizneves01/formulariocontatolaravel",
     "description": "Um pacote de formulário de contato",
-    "type": "luizneves01-formulariocontato",
+    "type": "luizneves01-formulariocontatolaravel",
     "license": "MIT",
     "authors": [
         {
@@ -10,13 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "extra": {
-        "class": "luizneves01\\Composer\\TemplateInstallerPlugin"
-    },
     "require": {},
     "autoload": {
         "psr-4": {
             "LuizNeves01\\FormularioContato\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LuizNeves01\\FormularioContato\\FormularioContatoServiceProvider"
+            ]
         }
     }
 }
