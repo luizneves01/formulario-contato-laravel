@@ -1,0 +1,17 @@
+{
+    "name": "Felipe/FormularioContato",
+    "description": "Um pacote de formulário de contato",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Luiz Felipe Neves",
+            "email": "luiz.felipe.neves3@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Felipe\\FormularioContato\\": "packages/felipe/formulario-contato/src/"
+        }
+    }
+}
