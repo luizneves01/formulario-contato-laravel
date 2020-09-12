@@ -8,6 +8,7 @@
             "email": "luiz.felipe.neves3@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
