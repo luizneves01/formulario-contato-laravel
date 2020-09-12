@@ -1,6 +1,6 @@
 <?php
 
-namespace Felipe\FormularioContato\Http\Controllers;
+namespace LuizNeves01\FormularioContato\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

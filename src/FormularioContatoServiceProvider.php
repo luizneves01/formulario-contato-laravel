@@ -1,6 +1,6 @@
 <?php
 
-namespace Felipe\FormularioContato;
+namespace LuizNeves01\FormularioContato;
 
 use Illuminate\Support\ServiceProvider;
 

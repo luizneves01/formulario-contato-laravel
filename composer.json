@@ -1,5 +1,5 @@
 {
-    "name": "Felipe/FormularioContato",
+    "name": "LuizNeves01/FormularioContato",
     "description": "Um pacote de formulário de contato",
     "type": "composer-plugin",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Felipe\\FormularioContato\\": "packages/felipe/formulario-contato/src/"
+            "LuizNeves01\\FormularioContato\\": "packages/luizneves01/formulario-contato/src/"
         }
     }
 }
