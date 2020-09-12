@@ -1,7 +1,8 @@
 {
     "name": "luizneves01/formulariocontatolaravel",
     "description": "Um pacote de formulário de contato",
-    "type": "composer-plugin",
+    "type": "luizneves01-formulariocontato",
+    "license": "MIT",
     "authors": [
         {
             "name": "Luiz Felipe Neves",
