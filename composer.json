@@ -11,12 +11,7 @@
     ],
     "minimum-stability": "dev",
     "extra": {
-        "class": "Composer\\TemplateInstallerPlugin",
-        "laravel": {
-            "providers": [
-                "LuizNeves01\\FormularioContato\\FormularioContatoServiceProvider"
-            ]
-        }
+        "class": "Composer\\TemplateInstallerPlugin"        
     },
     "require": {},
     "autoload": {
